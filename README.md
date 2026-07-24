@@ -42,6 +42,12 @@
 
 📦 Download APK
 https://snack.expo.dev/@sache/-klinikku
+
+
+
+
+
+
 [🌐 Expo Snack
 Buka di Expo Snack](https://snack.expo.dev/@sache/-klinikku)
 
