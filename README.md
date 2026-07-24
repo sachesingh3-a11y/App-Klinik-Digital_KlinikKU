@@ -50,8 +50,10 @@ https://snack.expo.dev/@sache/-klinikku
 
 [🌐 Expo Snack
 Buka di Expo Snack](https://snack.expo.dev/@sache/-klinikku)
+untuk uji coba di snack expo silahkan daftar akun dulu baru bisa login.
 
 👤 Developer
+
 Sache Deep Singh | 243303621202 | Kelas Sistem Informasi
 
 Universitas Prima Indonesia — Prodi Sistem Informasi
