@@ -39,9 +39,19 @@
 | Build | EAS Build (Expo Application Services) |
 
 ---
+
 📦 Download APK
 Download APK terbaru
 
+[🌐 Expo Snack
+Buka di Expo Snack](https://snack.expo.dev/@sache/-klinikku)
+
+👤 Developer
+Sache Deep Singh | 243303621202 | Kelas Sistem Informasi
+
+Universitas Prima Indonesia — Prodi Sistem Informasi
+
+Mata Kuliah: Pemrograman Mobile (TI-MOBILE-01)
 🌐 Expo Snack
 Buka di Expo Snack
 
