@@ -39,7 +39,18 @@
 | Build | EAS Build (Expo Application Services) |
 
 ---
+📦 Download APK
+Download APK terbaru
 
+🌐 Expo Snack
+Buka di Expo Snack
+
+👤 Developer
+Sache Deep Singh | 243303621202 | Kelas Sistem Informasi
+
+Universitas Prima Indonesia — Prodi Sistem Informasi
+
+Mata Kuliah: Pemrograman Mobile (TI-MOBILE-01)
 ## 🚀 Cara Menjalankan
 
 ```bash
@@ -47,11 +58,6 @@ git clone [https://github.com/sache/klinikku.git](https://github.com/sache/klini
 cd klinikku
 npm install
 npx expo start
-📦 Download APK
-Download APK terbaru
-
-🌐 Expo Snack
-Buka di Expo Snack
 
 👤 Developer
 Sache Deep Singh | 243303621202 | Kelas Sistem Informasi
