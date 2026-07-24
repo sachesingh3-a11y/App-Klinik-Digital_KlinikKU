@@ -1,3 +1,4 @@
+import 'react-native-gesture-handler'; // <-- WAJIB DI BARIS PALING ATAS
 import { registerRootComponent } from 'expo';
 
 import App from './App';
