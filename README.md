@@ -12,7 +12,10 @@
 
 | Login Screen | Home Screen | Feature Screen |
 |:---:|:---:|:---:|
-| ![Login](assets/screenshots/login.png) | ![Home](assets/screenshots/home.png) | ![Feature](assets/screenshots/feature.png) |
+| ![Login](<img width="728" height="1600" alt="Login" src="https://github.com/user-attachments/assets/77045375-587e-4dc6-aae7-c39b4ce080f7" />
+) | ![Home](![(<img width="728" height="1600" alt="Beranda" src="https://github.com/user-attachments/assets/25452e53-f66a-4121-a8ee-88af16077076" />
+)
+) | 
 
 ---
 
@@ -63,7 +66,7 @@ Mata Kuliah: Pemrograman Mobile (TI-MOBILE-01)
 Buka di Expo Snack
 
 👤 Developer
-Sache Deep Singh | 243303621202 | Kelas Sistem Informasi
+Sache Deep Singh | 243303621202 | Prodi Sistem Informasi
 
 Universitas Prima Indonesia — Prodi Sistem Informasi
 
