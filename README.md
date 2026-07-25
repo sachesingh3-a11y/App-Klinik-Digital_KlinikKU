@@ -12,10 +12,10 @@
 
 | Login Screen | Home Screen |
 |:---:|:---:|:---:|
-| ![Login](<img width="728" height="1600" alt="Login" src="https://github.com/user-attachments/assets/5f39bf92-5be5-4d34-82e7-dbeccc5c7cf8" />
-) | ![Home](<img width="728" height="1600" alt="Beranda" src="https://github.com/user-attachments/assets/f91d7a63-52db-4f61-b932-a88151a25268" />
-) | 
----
+<img width="728" height="1600" alt="Login" src="https://github.com/user-attachments/assets/a2aa7a5e-8842-478a-8d7f-77fb39e23c3d" />
+
+<img width="728" height="1600" alt="Beranda" src="https://github.com/user-attachments/assets/b5e50cd2-fbee-40fa-88b6-62ad618a142d" />
+
 
 Demo Aplikasi 
 
