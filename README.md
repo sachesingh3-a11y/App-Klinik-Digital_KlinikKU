@@ -10,14 +10,19 @@
 
 ## 📸 Screenshots
 
-| Login Screen | Home Screen | Feature Screen |
+| Login Screen | Home Screen |
 |:---:|:---:|:---:|
-| ![Login](<img width="728" height="1600" alt="Login" src="https://github.com/user-attachments/assets/77045375-587e-4dc6-aae7-c39b4ce080f7" />
-) | ![Home](![(<img width="728" height="1600" alt="Beranda" src="https://github.com/user-attachments/assets/25452e53-f66a-4121-a8ee-88af16077076" />
-)
+| ![Login](<img width="728" height="1600" alt="Login" src="https://github.com/user-attachments/assets/5f39bf92-5be5-4d34-82e7-dbeccc5c7cf8" />
+) | ![Home](<img width="728" height="1600" alt="Beranda" src="https://github.com/user-attachments/assets/f91d7a63-52db-4f61-b932-a88151a25268" />
 ) | 
-
 ---
+
+Demo Aplikasi 
+
+https://github.com/user-attachments/assets/42466cb4-08b5-46ac-936b-e38ab8fd73ad
+
+
+
 
 ## ✨ Fitur Utama
 
