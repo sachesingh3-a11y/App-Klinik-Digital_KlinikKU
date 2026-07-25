@@ -54,7 +54,6 @@ https://expo.dev/accounts/sache/projects/klinikku/builds/89a14792-6eea-483b-a6a3
 
 
 
-
 [🌐 Expo Snack
 Buka di Expo Snack](https://snack.expo.dev/@sache/-klinikku)
 untuk uji coba di snack expo silahkan daftar akun dulu baru bisa login.
