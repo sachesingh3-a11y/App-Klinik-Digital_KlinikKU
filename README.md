@@ -49,8 +49,7 @@ https://github.com/user-attachments/assets/42466cb4-08b5-46ac-936b-e38ab8fd73ad
 ---
 
 📦 Download APK
-https://snack.expo.dev/@sache/-klinikku
-
+https://expo.dev/accounts/sache/projects/klinikku/builds/89a14792-6eea-483b-a6a3-3bd4e9f84b03
 
 
 
